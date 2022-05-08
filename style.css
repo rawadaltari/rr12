@@ -1,0 +1,67 @@
+body{
+    margin:auto;
+    padding:0;
+   padding-top: 80px;
+	width: 90%;
+	background-color:white;
+	opacity: 0.5px;
+}
+#home{
+	margin-top: 0px;
+	width: 100%;
+	background-color: lightsteelblue;
+	
+}
+.contactpar{
+	float: left;
+margin-left: 40px;
+	margin-right: 40px;
+}
+. content-item{
+	width: 100%;
+	margin: auto;
+}
+.navbar-right{
+	margin-right: 40px;
+	font-size: 25px;
+}
+.navbar-brand{
+	margin-left: 90px;
+	font-size: 50px;
+}
+.navbar{
+	background-color: whitesmoke;
+	color: black;
+	
+}
+.navbar-nav{
+	text-align: center;
+	margin-left: 80px;
+	font-size: 25px;
+	
+}
+.nav-left{
+	float: left;
+	margin-left: 110px;
+	font-size: 40px;
+	color: gray;
+}
+.tm-image{
+	width: 100%;
+	height: 570px;
+}
+.carousel-indicators{
+	margin-top: 0%;
+}
+.button {
+    background-color: gray; 
+    border: none;
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+   
+    font-size: 16px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
